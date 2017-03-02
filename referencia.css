@@ -1,0 +1,28 @@
+padre {
+	text-align: center;
+	display:block;
+}
+tittle{
+	font-size: 24pt;
+	text-align: center;
+	display:block;
+}
+estacion {
+font-size:20PT;
+font-style:bold ;
+display:block;
+
+}
+canal{
+display:block;
+
+}
+
+fecha{
+	display:block;
+}
+
+hora{
+display:block;
+
+}
